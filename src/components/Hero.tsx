@@ -94,7 +94,7 @@ export const Hero = () => {
           transition={{ delay: 0.9, duration: 0.8 }}
           className="max-w-xl mx-auto text-base md:text-lg text-muted-foreground mb-10"
         >
-          Sabor autêntico, drinks gelados e noites inesquecíveis ao lado de quem você ama.
+          Unimos Todas as Gastronomias do Mundo em um Só Lugar
         </motion.p>
 
         {/* CTAs */}

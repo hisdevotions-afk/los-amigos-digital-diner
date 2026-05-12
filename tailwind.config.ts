@@ -12,9 +12,8 @@ export default {
     },
     extend: {
       fontFamily: {
-        display: ["'Bebas Neue'", "sans-serif"],
         sans: ["Inter", "system-ui", "sans-serif"],
-        script: ["Pacifico", "cursive"],
+        mono: ["'JetBrains Mono'", "ui-monospace", "monospace"],
       },
       colors: {
         border: "hsl(var(--border))",
